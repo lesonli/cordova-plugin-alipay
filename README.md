@@ -1,4 +1,4 @@
-# corodva-plugin-alipay
+# cordova-plugin-alipay
 cordova plugin alipay
 A cordova plugin, a JS version of alipay SDK
 

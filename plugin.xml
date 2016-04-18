@@ -109,8 +109,8 @@
 					android:screenOrientation="behind" >
 			</activity>
 		</config-file>
-		<source-file src="src/android/Alipay.java" target-dir="src/com/dskj/dscj/alipay" />
-		<source-file src="src/android/Result.java" target-dir="src/com/dskj/dscj/alipay" />
+		<source-file src="src/android/Alipay.java" target-dir="src/lesonli/cordova/alipay" />
+		<source-file src="src/android/Result.java" target-dir="src/lesonli/cordova/alipay" />
 
 		<source-file src="src/android/alipaysdk.jar" target-dir="libs" />
 	</platform>

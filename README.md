@@ -1,6 +1,7 @@
 # cordova-plugin-alipay
 cordova plugin alipay
 A cordova plugin, a JS version of alipay SDK
+此插件为IONIC1插件，而且是就版本alipay的sdk，如需使用请参考内部实现，更新sdk和接口写法
 
 # Install
 clone到本地，
@@ -29,5 +30,3 @@ clone到本地，
 此插件直接传入orderStr，orderStr需要服务器端生成，这块可以参考阿里云的说明文档
 schemeStr取的是填入的appid
 https://doc.open.alipay.com/doc2/detail.htm?spm=a219a.7629140.0.0.fF6jLG&treeId=59&articleId=103563&docType=1
-
-临时开发，有问题可以联系 307771861@qq.com
